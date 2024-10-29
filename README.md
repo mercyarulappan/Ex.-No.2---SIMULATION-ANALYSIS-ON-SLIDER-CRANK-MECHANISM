@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No.02  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 25:09:2024
 
@@ -44,8 +44,11 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
 
 ## Output
+![image](https://github.com/user-attachments/assets/aa9544df-8c4a-4980-8539-eb91853ab8e3)
 
-![image](https://github.com/user-attachments/assets/2b4cfb62-5790-4cf5-9c07-e9e2f0f88455)
+![image](https://github.com/user-attachments/assets/72f7c20f-40ce-47ca-b79b-e40c0a3089fd)
+
+
 
 
 ### Name: MERCY A
